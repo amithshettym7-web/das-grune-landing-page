@@ -1,0 +1,141 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    width: 100vw;
+    height: 100vh;
+    background-color: #292929;
+}
+
+.top {
+    width: 100%;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 50px;
+    color: #DCDCDC;
+}
+
+a {
+    color: #DCDCDC;
+    text-decoration: none;
+}
+
+#option {
+    margin-right: 15px;
+    display: flex;
+    justify-content: space-evenly;
+    width: 50%;
+}
+
+#logo {
+    font-size: 20px;
+    margin-left: 50px;
+    color: #DCDCDC;
+}
+
+.title {
+    height: 160px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+#tit {
+    height: 100%;
+    width: 60%;
+    color: black;
+    font-size: 150px;
+    font-weight: 900px;
+    margin-left: 50px;
+    -webkit-text-stroke: 1px currentColor;
+    color: #DCDCDC;
+}
+
+#pic {
+    height: 100px;
+    width: 400px;
+    background-color: black;
+    background-image: url("https://images.unsplash.com/photo-1785403241654-6e1111561af4?q=80&w=1332&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
+    background-size: cover;
+    margin-right: 85px;
+    border-radius: 2rem;
+}
+
+#text {
+    height: 100px;
+    width: 400px;
+    margin-right: 145px;
+    font-size: 26px;
+    color: #DCDCDC;
+}
+
+#play {
+    height: 100%;
+    width: 25%;
+    background-color: black;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+i {
+    font-size: 50px;
+    color: azure;
+}
+
+.down {
+    height: 60px;
+    width: 50%;
+    margin-top: 30px;
+    display: flex;
+    align-items: center;
+    gap: 70px;
+    justify-content: start;
+    margin-left: 50px;
+}
+
+#one,
+#two {
+    width: 30%;
+    height: 30px;
+    border-radius: 2rem;
+    border: 2px solid black;
+    margin-left: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.picture {
+    height: 700px;
+    width: 90%;
+    display: flex;
+    justify-self: center;
+    border-radius: 1.3rem;
+    background-image: url("https://images.unsplash.com/photo-1693230772696-71029feb9b07?q=80&w=1335&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
+    background-size: cover;
+}
+
+#arrow {
+    height: 150px;
+    width: 150px;
+    background-color: black;
+    border-radius: 50%;
+    position: absolute;
+    right: 100px;
+    top: 450px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+i #a {
+    font-size: 100px;
+    color: #D5FF40;
+}
