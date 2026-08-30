@@ -48,7 +48,7 @@ das-grune-landing-page/
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/your-username/das-grune-landing-page.git
+git clone https://github.com/amithshettym7-web/das-grune-landing-page.git
 ```
 
 2. Open the project folder.
