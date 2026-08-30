@@ -61,13 +61,7 @@ That's it! No additional installation is required.
 
 This project is part of my journey to improve my **frontend web development skills** and build real-world projects for my portfolio.
 
-## 📸 Preview
 
-Add a screenshot of your website here:
-
-```markdown
-![Das Grune Website](screenshot.png)
-```
 
 ## 🔮 Future Improvements
 
